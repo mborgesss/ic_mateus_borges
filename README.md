@@ -1,5 +1,5 @@
 # Causas de Desaparecimento no Estado de São Paulo (código)
-O código dispoível possui a parte de pré-processamento, manipulação e treinoe seleção dos modelos de aprendizado de máquina. 
+O código disponível possui a parte de pré-processamento, manipulação, treino e seleção dos modelos de aprendizado de máquina. 
 Na futura versão estará disponível o calculado da prevalência utilizandoa metologia de Vaz et al. (2019).
 
 # Arquivos
